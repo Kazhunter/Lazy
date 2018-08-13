@@ -43,7 +43,7 @@ insertionQuery = "INSERT INTO "
 
 
 def create_save_file_name(output_folder_path, table_name):
-    return output_folder_path + to_str(excelFileMetaData.sheet_names.index(table_name)) + "_" + table_name + ".txt"
+    return output_folder_path + to_str(excelFileMetaData.sheet_names.index(table_name)) + "_" + table_name + ".sql"
 
 
 for tableName in excelFileMetaData.sheet_names:

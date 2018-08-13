@@ -1,4 +1,0 @@
-INSERT INTO ExtraData (Name, Email, Address, Likes ) VALUES ('Mohamed', 'moh95_1@yahoo.com', 'ABC World', 'FDGDFG_XDFDSF');
-
-INSERT INTO ExtraData (Name, Email, Address, Likes ) VALUES ('Mohamed', 'moh95_1@yahoo.com', 'ABC World', 'FDGDFG_XDFDSF');
-
