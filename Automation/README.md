@@ -8,6 +8,7 @@ How to use :
        * sheet name represent table in Database Name
        * First row in sheet represent columns names in DB
        * each row next is record in table
+       * you will find example for excel file called 'test.xlsx'
   - Demo.py
        * you will find 2 main variables in the begining of the script
        * input_excel_path : full path for excel file
@@ -23,7 +24,3 @@ General Info :
    such 'psql -U username -d myDataBase -a -f myInsertFile' this for postgres DB"
  - These insertion queries custom for postgres you can modify them easily in Demo to
    work with yours DB
-
-
-
-
